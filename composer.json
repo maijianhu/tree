@@ -1,0 +1,17 @@
+{
+    "name": "m35/tree",
+    "description": "a tree data structure for common use",
+    "type": "library",
+    "authors": [
+        {
+            "name": "m35",
+            "email": "maijianhu@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "m35\\": "src/"
+        }
+    }
+}
